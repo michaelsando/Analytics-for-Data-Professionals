@@ -1,0 +1,1 @@
+This projects provides a detailed analysis of a survey which was conducted to obtain opinion of some people working in the data industry.
